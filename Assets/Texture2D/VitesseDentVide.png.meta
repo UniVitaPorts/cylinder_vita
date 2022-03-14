@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 7e6bf65f136aee447880d166403f4489
+timeCreated: 1647088180
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: VitesseDentVide
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 438
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VitesseDentVide
+      rect:
+        serializedVersion: 2
+        x: 27.059729
+        y: 21.07612
+        width: 383.88055
+        height: 69.84776
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -186, y: -34}
+        - {x: -192, y: -17}
+        - {x: -192, y: 4}
+        - {x: -184, y: 35}
+        - {x: 183, y: 35}
+        - {x: 192, y: 20}
+        - {x: 192, y: -16}
+        - {x: 186, y: -34}
+        - {x: 92, y: -35}
+        - {x: -181, y: -35}
+      physicsShape:
+      - - {x: 179, y: 34}
+        - {x: 104.99999, y: 34}
+        - {x: 104, y: 33}
+        - {x: -181, y: 33}
+        - {x: -183, y: 31}
+        - {x: -191, y: -1}
+        - {x: -192, y: -12}
+        - {x: -192, y: -16}
+        - {x: -180, y: -34}
+        - {x: 182, y: -34}
+        - {x: 183, y: -33}
+        - {x: 192, y: -1}
+        - {x: 192, y: 18}
+      - - {x: -170, y: -17}
+        - {x: 170.99998, y: -24}
+        - {x: 175, y: -28}
+        - {x: -171.99998, y: -26.999998}
+      - - {x: -182, y: -18}
+        - {x: -183.99998, y: -16}
+        - {x: -178, y: -17}
+        - {x: -179, y: -22}
+      - - {x: 177, y: -19}
+        - {x: 177, y: -18}
+        - {x: 178, y: -18}
+        - {x: 178, y: -21}
+        - {x: 179, y: -21}
+      - - {x: -179, y: 12}
+        - {x: -178, y: 19.999998}
+        - {x: -179, y: 19.999998}
+        - {x: -177, y: 18}
+        - {x: -177, y: 17}
+      - - {x: -167, y: -8}
+        - {x: -166, y: 8}
+        - {x: 166, y: 6}
+        - {x: 164, y: -8}
+      - - {x: -95, y: 25}
+        - {x: 170.99998, y: 22.999998}
+        - {x: 170, y: 16}
+        - {x: -167, y: 17}
+      - - {x: 179, y: 17}
+        - {x: 183.99998, y: 14.999999}
+        - {x: 178, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f4d49745f4bae810f10400077af34
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

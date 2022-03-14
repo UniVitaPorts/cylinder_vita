@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 856513d0ed0048d43a88a24f7638ad63
+timeCreated: 1647088184
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Manivelle-7
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 530
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Manivelle-7
+      rect:
+        serializedVersion: 2
+        x: 155.01291
+        y: 146.05132
+        width: 371.96036
+        height: 170.87257
+      alignment: 9
+      pivot: {x: 0.29569572, y: 0.3742478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 186.0069, y: 48.512398}
+        - {x: 8.006905, y: -72.4876}
+        - {x: -99.993095, y: -72.4876}
+        - {x: -102.993095, y: -73.4876}
+        - {x: -106.993095, y: -73.4876}
+        - {x: -107.993095, y: -72.4876}
+        - {x: -125.993095, y: -72.4876}
+        - {x: -154.9931, y: -10.487602}
+        - {x: -154.9931, y: 32.5124}
+        - {x: -115.993095, y: 85.512405}
+        - {x: 63.006905, y: 85.512405}
+        - {x: 152.0069, y: 74.5124}
+        - {x: 184.0069, y: 76.5124}
+        - {x: 186.0069, y: 71.5124}
+      - - {x: -184.9931, y: -41.487602}
+        - {x: -185.9931, y: -37.487602}
+        - {x: -185.9931, y: -32.487602}
+        - {x: -165.9931, y: -23.487602}
+        - {x: -156.9931, y: -23.487602}
+        - {x: -156.9931, y: -37.487602}
+        - {x: -162.9931, y: -41.487602}
+      - - {x: -142.9931, y: -74.487595}
+        - {x: -151.9931, y: -74.487595}
+        - {x: -151.9931, y: -65.4876}
+        - {x: -145.9931, y: -63.487602}
+        - {x: -139.9931, y: -63.487602}
+        - {x: -137.9931, y: -67.4876}
+        - {x: -137.9931, y: -71.4876}
+      - - {x: -146.9931, y: -85.4876}
+        - {x: -152.9931, y: -85.4876}
+        - {x: -152.9931, y: -80.487595}
+        - {x: -142.9931, y: -75.48761}
+        - {x: -134.99309, y: -75.48761}
+        - {x: -133.9931, y: -78.4876}
+        - {x: -135.9931, y: -82.4876}
+      physicsShape:
+      - - {x: -17.993095, y: -56.487602}
+        - {x: -3.9930954, y: -41.487602}
+        - {x: 2.0069046, y: -33.487602}
+        - {x: 8.006905, y: -19.487602}
+        - {x: 10.006897, y: -12.487602}
+        - {x: 12.006905, y: -1.4876041}
+        - {x: 12.006905, y: 11.512398}
+        - {x: 30.006897, y: 14.512398}
+        - {x: 61.006905, y: 21.512394}
+        - {x: 80.006905, y: 25.512398}
+        - {x: 89.006905, y: 26.512398}
+        - {x: 111.006905, y: 31.512394}
+        - {x: 139.0069, y: 39.512398}
+        - {x: 175.0069, y: 46.512398}
+        - {x: 181.0069, y: 49.512398}
+        - {x: 184.0069, y: 55.512398}
+        - {x: 184.0069, y: 63.512398}
+        - {x: 177.0069, y: 72.5124}
+        - {x: 167.0069, y: 71.5124}
+        - {x: 140.0069, y: 65.5124}
+        - {x: 117.006905, y: 59.512398}
+        - {x: 101.006905, y: 56.512398}
+        - {x: 87.006905, y: 54.512398}
+        - {x: 60.006905, y: 47.512398}
+        - {x: 53.006905, y: 46.512398}
+        - {x: 27.006905, y: 42.512398}
+        - {x: 7.0069046, y: 37.512394}
+        - {x: 2.0069046, y: 46.512398}
+        - {x: -3.9930954, y: 55.512398}
+        - {x: -18.993095, y: 69.5124}
+        - {x: -26.9931, y: 75.5124}
+        - {x: -40.993095, y: 81.5124}
+        - {x: -47.993095, y: 83.51239}
+        - {x: -58.993095, y: 85.51239}
+        - {x: -76.993095, y: 85.51239}
+        - {x: -90.993095, y: 83.51239}
+        - {x: -98.993095, y: 80.5124}
+        - {x: -115.99309, y: 69.5124}
+        - {x: -129.99309, y: 54.512398}
+        - {x: -135.99309, y: 46.512398}
+        - {x: -141.9931, y: 32.512394}
+        - {x: -145.9931, y: 18.512394}
+        - {x: -145.9931, y: -9.487602}
+        - {x: -141.9931, y: -19.487602}
+        - {x: -135.99309, y: -33.487602}
+        - {x: -129.99309, y: -42.487602}
+        - {x: -114.993095, y: -56.487602}
+        - {x: -106.993095, y: -62.487602}
+        - {x: -89.993095, y: -70.487595}
+        - {x: -81.993095, y: -72.4876}
+        - {x: -55.993095, y: -72.4876}
+        - {x: -43.993095, y: -69.4876}
+        - {x: -35.9931, y: -66.4876}
+        - {x: -26.9931, y: -62.487602}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc26d7b13104c3ba51034f7baae6a68
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
